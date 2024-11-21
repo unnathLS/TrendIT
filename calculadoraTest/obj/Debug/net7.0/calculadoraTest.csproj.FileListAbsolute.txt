@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/C#/calculadoraTest/bin/Debug/net7.0/calculadoraTest
+/home/unnathDebian/Estudos/C#/calculadoraTest/bin/Debug/net7.0/calculadoraTest.deps.json
+/home/unnathDebian/Estudos/C#/calculadoraTest/bin/Debug/net7.0/calculadoraTest.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/calculadoraTest/bin/Debug/net7.0/calculadoraTest.dll
+/home/unnathDebian/Estudos/C#/calculadoraTest/bin/Debug/net7.0/calculadoraTest.pdb
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.dll
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/refint/calculadoraTest.dll
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.pdb
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/calculadoraTest.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/calculadoraTest/obj/Debug/net7.0/ref/calculadoraTest.dll

@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/C#/pooMensagem/bin/Debug/net7.0/pooMensagem
+/home/unnathDebian/Estudos/C#/pooMensagem/bin/Debug/net7.0/pooMensagem.deps.json
+/home/unnathDebian/Estudos/C#/pooMensagem/bin/Debug/net7.0/pooMensagem.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/pooMensagem/bin/Debug/net7.0/pooMensagem.dll
+/home/unnathDebian/Estudos/C#/pooMensagem/bin/Debug/net7.0/pooMensagem.pdb
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.dll
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/refint/pooMensagem.dll
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.pdb
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/pooMensagem.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/pooMensagem/obj/Debug/net7.0/ref/pooMensagem.dll

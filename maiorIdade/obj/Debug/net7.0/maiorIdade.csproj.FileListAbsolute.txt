@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/maiorIdade/bin/Debug/net7.0/maiorIdade
+/home/unnathDebian/Estudos/C#/maiorIdade/bin/Debug/net7.0/maiorIdade.deps.json
+/home/unnathDebian/Estudos/C#/maiorIdade/bin/Debug/net7.0/maiorIdade.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/maiorIdade/bin/Debug/net7.0/maiorIdade.dll
+/home/unnathDebian/Estudos/C#/maiorIdade/bin/Debug/net7.0/maiorIdade.pdb
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.dll
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/refint/maiorIdade.dll
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.pdb
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/maiorIdade.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/maiorIdade/obj/Debug/net7.0/ref/maiorIdade.dll

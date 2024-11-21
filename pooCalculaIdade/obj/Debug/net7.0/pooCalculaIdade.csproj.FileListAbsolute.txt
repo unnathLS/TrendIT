@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/bin/Debug/net7.0/pooCalculaIdade
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/bin/Debug/net7.0/pooCalculaIdade.deps.json
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/bin/Debug/net7.0/pooCalculaIdade.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/bin/Debug/net7.0/pooCalculaIdade.dll
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/bin/Debug/net7.0/pooCalculaIdade.pdb
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.dll
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/refint/pooCalculaIdade.dll
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.pdb
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/pooCalculaIdade.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/pooCalculaIdade/obj/Debug/net7.0/ref/pooCalculaIdade.dll
