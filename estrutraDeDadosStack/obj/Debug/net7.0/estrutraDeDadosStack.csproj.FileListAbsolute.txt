@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/bin/Debug/net7.0/estrutraDeDadosStack
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/bin/Debug/net7.0/estrutraDeDadosStack.deps.json
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/bin/Debug/net7.0/estrutraDeDadosStack.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/bin/Debug/net7.0/estrutraDeDadosStack.dll
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/bin/Debug/net7.0/estrutraDeDadosStack.pdb
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.dll
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/refint/estrutraDeDadosStack.dll
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.pdb
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/estrutraDeDadosStack.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/Debug/net7.0/ref/estrutraDeDadosStack.dll
