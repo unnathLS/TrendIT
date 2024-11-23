@@ -2,3 +2,13 @@
 /home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.AssemblyInfoInputs.cache
 /home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.AssemblyInfo.cs
 /home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/bin/Debug/net7.0/estruturaDeDadosFila
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/bin/Debug/net7.0/estruturaDeDadosFila.deps.json
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/bin/Debug/net7.0/estruturaDeDadosFila.runtimeconfig.json
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/bin/Debug/net7.0/estruturaDeDadosFila.dll
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/bin/Debug/net7.0/estruturaDeDadosFila.pdb
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.dll
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/refint/estruturaDeDadosFila.dll
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.pdb
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.genruntimeconfig.cache
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/ref/estruturaDeDadosFila.dll

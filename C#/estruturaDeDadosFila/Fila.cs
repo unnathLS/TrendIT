@@ -91,31 +91,34 @@ namespace estruturaDeDadosFila
             }
         }
 
-        /// <summary>
-        /// Retorna o elemento do in cio da fila sem remov -lo.
-        /// </summary>
-        /// <returns>O elemento do in cio da fila.</returns>
-        /// <exception cref="InvalidOperationException">Lan adia se a fila estiver vazia.</exception>
-        public T Peek()
-        {
-            if (!IsEmpty())
-            {
-                return elementos[primeiro % elementos.Length];
-            }
-            else
-            {
-                throw new InvalidOperationException("Fila vazia");
-            }
-        }
+       
+        // public T Peek()
+        // {
+        //     if (!IsEmpty())
+        //     {
+        //         return elementos[primeiro % elementos.Length];
+        //     }
+        //     else
+        //     {
+        //         throw new InvalidOperationException("Fila vazia");
+        //     }
+        // }
 
         /// <summary>
         /// Imprime todos os elementos da fila na ordem em que foram adicionados.
         /// </summary>
         public void PrintQueue()
         {
-            for (int i = primeiro; i < ultimo; i++)
+            if(!IsEmpty())
+            {
+                for (int i = primeiro; i < ultimo; i++)
             {
                 Console.WriteLine(elementos[i % elementos.Length]);
+            }
+            }
+            else
+            {
+                Console.WriteLine("Fila vazia");
             }
         }
     }
