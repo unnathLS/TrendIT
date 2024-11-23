@@ -9,7 +9,7 @@ Esse programa foi criado pelo Núcleo Softex Campinas e vai te preparar para ing
 # Algumas anotações
 [Notion](https://resilient-singer-fed.notion.site/TrendsIT-13c9c27dd91780fead5de4b06300a9e2)
 ***
-**Ainda preciso fazer algumas anotações mas detalhadas sobre alguns dos topicos abaixo porém no geral esse é o curriculo no qual o projeto Trends IT me de uma base**
+**Ainda preciso fazer algumas anotações mas detalhadas sobre alguns dos topicos abaixo porém no geral esse é o curriculo no qual o projeto Trends IT está me dando uma base**
 ***
 
 # Jornada do TrendsIT
