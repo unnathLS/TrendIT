@@ -1,0 +1,4 @@
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.AssemblyInfo.cs
+/home/unnathDebian/Estudos/C#/estruturaDeDadosFila/obj/Debug/net7.0/estruturaDeDadosFila.csproj.CoreCompileInputs.cache
