@@ -1,0 +1,14 @@
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.AssemblyInfoInputs.cache
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.AssemblyInfo.cs
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.csproj.CoreCompileInputs.cache
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/bin/Debug/net7.0/estruturaDeDadosListaEncadeada
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/bin/Debug/net7.0/estruturaDeDadosListaEncadeada.deps.json
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/bin/Debug/net7.0/estruturaDeDadosListaEncadeada.runtimeconfig.json
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/bin/Debug/net7.0/estruturaDeDadosListaEncadeada.dll
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/bin/Debug/net7.0/estruturaDeDadosListaEncadeada.pdb
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.dll
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/refint/estruturaDeDadosListaEncadeada.dll
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.pdb
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/estruturaDeDadosListaEncadeada.genruntimeconfig.cache
+/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estruturaDeDadosListaEncadeada/obj/Debug/net7.0/ref/estruturaDeDadosListaEncadeada.dll
