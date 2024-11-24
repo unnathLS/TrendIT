@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/estrutraDeDadosStack.csproj",
+      "projectUniqueName": "/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estrutraDeDadosStack/estrutraDeDadosStack.csproj",
       "projectName": "estrutraDeDadosStack",
-      "projectPath": "/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/estrutraDeDadosStack.csproj",
+      "projectPath": "/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estrutraDeDadosStack/estrutraDeDadosStack.csproj",
       "packagesPath": "/home/unnathDebian/.nuget/packages/",
-      "outputPath": "/home/unnathDebian/Estudos/C#/estrutraDeDadosStack/obj/",
+      "outputPath": "/home/unnathDebian/Estudos/TrendsIT/C#/Estrtura de Dados/estrutraDeDadosStack/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/unnathDebian/.nuget/NuGet/NuGet.Config"
